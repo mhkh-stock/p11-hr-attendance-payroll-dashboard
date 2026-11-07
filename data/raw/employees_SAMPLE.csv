@@ -1,0 +1,25 @@
+employee_id,employee_name,department,designation,basic_salary_pkr,transport_allowance_pkr,medical_allowance_pkr,overtime_hours
+CW-001,Ahmed Raza,Operations,Operations Manager,120000,10000,5000,0
+CW-002,Bilal Hussain,Operations,Supervisor,78000,7000,4000,6
+CW-003,Usman Tariq,Operations,Supervisor,75000,7000,4000,8
+CW-004,Faisal Mehmood,Operations,Field Officer,48000,5000,3000,14
+CW-005,Imran Shah,Operations,Field Officer,46000,5000,3000,12
+CW-006,Naveed Akhtar,Operations,Field Officer,45000,5000,3000,16
+CW-007,Tariq Aziz,Operations,Driver,40000,4000,3000,10
+CW-008,Shahid Iqbal,Operations,Driver,38000,4000,3000,8
+CW-009,Sana Malik,Sales,Sales Manager,110000,10000,5000,0
+CW-010,Ayesha Khan,Sales,Sales Executive,58000,7000,4000,4
+CW-011,Hamza Yousaf,Sales,Sales Executive,56000,7000,4000,6
+CW-012,Zainab Ali,Sales,Sales Executive,55000,7000,4000,5
+CW-013,Omar Farooq,Sales,Sales Assistant,42000,5000,3000,6
+CW-014,Maryam Siddiqui,Sales,Sales Assistant,40000,5000,3000,4
+CW-015,Kamran Ahmed,Accounts,Finance Manager,105000,10000,5000,0
+CW-016,Saad Mirza,Accounts,Accountant,68000,7000,4000,10
+CW-017,Hina Raza,Accounts,Accountant,65000,7000,4000,9
+CW-018,Waqas Ali,Accounts,Cashier,44000,5000,3000,5
+CW-019,Fatima Zahra,HR & Admin,HR Manager,95000,10000,5000,0
+CW-020,Ali Raza,HR & Admin,Admin Officer,60000,7000,4000,3
+CW-021,Rabia Anwar,HR & Admin,Receptionist,42000,5000,3000,2
+CW-022,Hassan Javed,HR & Admin,Office Assistant,36000,5000,3000,6
+CW-023,Daniyal Khan,HR & Admin,Office Assistant,35000,5000,3000,5
+CW-024,Muhammad Younas,HR & Admin,Cleaner,32000,4000,3000,4

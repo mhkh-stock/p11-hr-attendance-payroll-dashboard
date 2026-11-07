@@ -1,0 +1,2 @@
+# Pinned to the exact version that built this delivery (verified Nov 2026).
+openpyxl==3.1.2

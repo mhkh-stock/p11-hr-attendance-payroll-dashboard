@@ -1,0 +1,529 @@
+date,employee_id,employee_name,department,status
+2026-10-01,CW-001,Ahmed Raza,Operations,Present
+2026-10-02,CW-001,Ahmed Raza,Operations,Present
+2026-10-05,CW-001,Ahmed Raza,Operations,Late
+2026-10-06,CW-001,Ahmed Raza,Operations,Present
+2026-10-07,CW-001,Ahmed Raza,Operations,Present
+2026-10-08,CW-001,Ahmed Raza,Operations,Present
+2026-10-09,CW-001,Ahmed Raza,Operations,Present
+2026-10-12,CW-001,Ahmed Raza,Operations,Present
+2026-10-13,CW-001,Ahmed Raza,Operations,Present
+2026-10-14,CW-001,Ahmed Raza,Operations,Present
+2026-10-15,CW-001,Ahmed Raza,Operations,Present
+2026-10-16,CW-001,Ahmed Raza,Operations,Present
+2026-10-19,CW-001,Ahmed Raza,Operations,Present
+2026-10-20,CW-001,Ahmed Raza,Operations,Present
+2026-10-21,CW-001,Ahmed Raza,Operations,Present
+2026-10-22,CW-001,Ahmed Raza,Operations,Present
+2026-10-23,CW-001,Ahmed Raza,Operations,Leave
+2026-10-26,CW-001,Ahmed Raza,Operations,Leave
+2026-10-27,CW-001,Ahmed Raza,Operations,Present
+2026-10-28,CW-001,Ahmed Raza,Operations,Present
+2026-10-29,CW-001,Ahmed Raza,Operations,Present
+2026-10-30,CW-001,Ahmed Raza,Operations,Present
+2026-10-01,CW-002,Bilal Hussain,Operations,Present
+2026-10-02,CW-002,Bilal Hussain,Operations,Present
+2026-10-05,CW-002,Bilal Hussain,Operations,Present
+2026-10-06,CW-002,Bilal Hussain,Operations,Present
+2026-10-07,CW-002,Bilal Hussain,Operations,Present
+2026-10-08,CW-002,Bilal Hussain,Operations,Present
+2026-10-09,CW-002,Bilal Hussain,Operations,Present
+2026-10-12,CW-002,Bilal Hussain,Operations,Present
+2026-10-13,CW-002,Bilal Hussain,Operations,Present
+2026-10-14,CW-002,Bilal Hussain,Operations,Present
+2026-10-15,CW-002,Bilal Hussain,Operations,Present
+2026-10-16,CW-002,Bilal Hussain,Operations,Present
+2026-10-19,CW-002,Bilal Hussain,Operations,Present
+2026-10-20,CW-002,Bilal Hussain,Operations,Present
+2026-10-21,CW-002,Bilal Hussain,Operations,Absent
+2026-10-22,CW-002,Bilal Hussain,Operations,Absent
+2026-10-23,CW-002,Bilal Hussain,Operations,Present
+2026-10-26,CW-002,Bilal Hussain,Operations,Present
+2026-10-27,CW-002,Bilal Hussain,Operations,Present
+2026-10-28,CW-002,Bilal Hussain,Operations,Present
+2026-10-29,CW-002,Bilal Hussain,Operations,Present
+2026-10-30,CW-002,Bilal Hussain,Operations,Present
+2026-10-01,CW-003,Usman Tariq,Operations,Present
+2026-10-02,CW-003,Usman Tariq,Operations,Present
+2026-10-05,CW-003,Usman Tariq,Operations,Present
+2026-10-06,CW-003,Usman Tariq,Operations,Present
+2026-10-07,CW-003,Usman Tariq,Operations,Half-day
+2026-10-08,CW-003,Usman Tariq,Operations,Present
+2026-10-09,CW-003,Usman Tariq,Operations,Present
+2026-10-12,CW-003,Usman Tariq,Operations,Present
+2026-10-13,CW-003,Usman Tariq,Operations,Late
+2026-10-14,CW-003,Usman Tariq,Operations,Present
+2026-10-15,CW-003,Usman Tariq,Operations,Leave
+2026-10-16,CW-003,Usman Tariq,Operations,Present
+2026-10-19,CW-003,Usman Tariq,Operations,Present
+2026-10-20,CW-003,Usman Tariq,Operations,Present
+2026-10-21,CW-003,Usman Tariq,Operations,Present
+2026-10-22,CW-003,Usman Tariq,Operations,Present
+2026-10-23,CW-003,Usman Tariq,Operations,Present
+2026-10-26,CW-003,Usman Tariq,Operations,Present
+2026-10-27,CW-003,Usman Tariq,Operations,Leave
+2026-10-28,CW-003,Usman Tariq,Operations,Present
+2026-10-29,CW-003,Usman Tariq,Operations,Present
+2026-10-30,CW-003,Usman Tariq,Operations,Present
+2026-10-01,CW-004,Faisal Mehmood,Operations,Present
+2026-10-02,CW-004,Faisal Mehmood,Operations,Present
+2026-10-05,CW-004,Faisal Mehmood,Operations,Present
+2026-10-06,CW-004,Faisal Mehmood,Operations,Present
+2026-10-07,CW-004,Faisal Mehmood,Operations,Present
+2026-10-08,CW-004,Faisal Mehmood,Operations,Present
+2026-10-09,CW-004,Faisal Mehmood,Operations,Present
+2026-10-12,CW-004,Faisal Mehmood,Operations,Present
+2026-10-13,CW-004,Faisal Mehmood,Operations,Present
+2026-10-14,CW-004,Faisal Mehmood,Operations,Present
+2026-10-15,CW-004,Faisal Mehmood,Operations,Present
+2026-10-16,CW-004,Faisal Mehmood,Operations,Present
+2026-10-19,CW-004,Faisal Mehmood,Operations,Present
+2026-10-20,CW-004,Faisal Mehmood,Operations,Present
+2026-10-21,CW-004,Faisal Mehmood,Operations,Leave
+2026-10-22,CW-004,Faisal Mehmood,Operations,Present
+2026-10-23,CW-004,Faisal Mehmood,Operations,Present
+2026-10-26,CW-004,Faisal Mehmood,Operations,Late
+2026-10-27,CW-004,Faisal Mehmood,Operations,Present
+2026-10-28,CW-004,Faisal Mehmood,Operations,Present
+2026-10-29,CW-004,Faisal Mehmood,Operations,Present
+2026-10-30,CW-004,Faisal Mehmood,Operations,Present
+2026-10-01,CW-005,Imran Shah,Operations,Present
+2026-10-02,CW-005,Imran Shah,Operations,Absent
+2026-10-05,CW-005,Imran Shah,Operations,Present
+2026-10-06,CW-005,Imran Shah,Operations,Present
+2026-10-07,CW-005,Imran Shah,Operations,Present
+2026-10-08,CW-005,Imran Shah,Operations,Present
+2026-10-09,CW-005,Imran Shah,Operations,Present
+2026-10-12,CW-005,Imran Shah,Operations,Present
+2026-10-13,CW-005,Imran Shah,Operations,Present
+2026-10-14,CW-005,Imran Shah,Operations,Present
+2026-10-15,CW-005,Imran Shah,Operations,Present
+2026-10-16,CW-005,Imran Shah,Operations,Present
+2026-10-19,CW-005,Imran Shah,Operations,Present
+2026-10-20,CW-005,Imran Shah,Operations,Present
+2026-10-21,CW-005,Imran Shah,Operations,Leave
+2026-10-22,CW-005,Imran Shah,Operations,Present
+2026-10-23,CW-005,Imran Shah,Operations,Present
+2026-10-26,CW-005,Imran Shah,Operations,Leave
+2026-10-27,CW-005,Imran Shah,Operations,Present
+2026-10-28,CW-005,Imran Shah,Operations,Present
+2026-10-29,CW-005,Imran Shah,Operations,Leave
+2026-10-30,CW-005,Imran Shah,Operations,Late
+2026-10-01,CW-006,Naveed Akhtar,Operations,Present
+2026-10-02,CW-006,Naveed Akhtar,Operations,Present
+2026-10-05,CW-006,Naveed Akhtar,Operations,Present
+2026-10-06,CW-006,Naveed Akhtar,Operations,Half-day
+2026-10-07,CW-006,Naveed Akhtar,Operations,Present
+2026-10-08,CW-006,Naveed Akhtar,Operations,Half-day
+2026-10-09,CW-006,Naveed Akhtar,Operations,Late
+2026-10-12,CW-006,Naveed Akhtar,Operations,Present
+2026-10-13,CW-006,Naveed Akhtar,Operations,Present
+2026-10-14,CW-006,Naveed Akhtar,Operations,Present
+2026-10-15,CW-006,Naveed Akhtar,Operations,Present
+2026-10-16,CW-006,Naveed Akhtar,Operations,Leave
+2026-10-19,CW-006,Naveed Akhtar,Operations,Present
+2026-10-20,CW-006,Naveed Akhtar,Operations,Present
+2026-10-21,CW-006,Naveed Akhtar,Operations,Present
+2026-10-22,CW-006,Naveed Akhtar,Operations,Present
+2026-10-23,CW-006,Naveed Akhtar,Operations,Present
+2026-10-26,CW-006,Naveed Akhtar,Operations,Present
+2026-10-27,CW-006,Naveed Akhtar,Operations,Present
+2026-10-28,CW-006,Naveed Akhtar,Operations,Present
+2026-10-29,CW-006,Naveed Akhtar,Operations,Present
+2026-10-30,CW-006,Naveed Akhtar,Operations,Present
+2026-10-01,CW-007,Tariq Aziz,Operations,Present
+2026-10-02,CW-007,Tariq Aziz,Operations,Late
+2026-10-05,CW-007,Tariq Aziz,Operations,Present
+2026-10-06,CW-007,Tariq Aziz,Operations,Present
+2026-10-07,CW-007,Tariq Aziz,Operations,Late
+2026-10-08,CW-007,Tariq Aziz,Operations,Present
+2026-10-09,CW-007,Tariq Aziz,Operations,Present
+2026-10-12,CW-007,Tariq Aziz,Operations,Present
+2026-10-13,CW-007,Tariq Aziz,Operations,Present
+2026-10-14,CW-007,Tariq Aziz,Operations,Present
+2026-10-15,CW-007,Tariq Aziz,Operations,Present
+2026-10-16,CW-007,Tariq Aziz,Operations,Present
+2026-10-19,CW-007,Tariq Aziz,Operations,Present
+2026-10-20,CW-007,Tariq Aziz,Operations,Present
+2026-10-21,CW-007,Tariq Aziz,Operations,Present
+2026-10-22,CW-007,Tariq Aziz,Operations,Late
+2026-10-23,CW-007,Tariq Aziz,Operations,Absent
+2026-10-26,CW-007,Tariq Aziz,Operations,Late
+2026-10-27,CW-007,Tariq Aziz,Operations,Late
+2026-10-28,CW-007,Tariq Aziz,Operations,Present
+2026-10-29,CW-007,Tariq Aziz,Operations,Present
+2026-10-30,CW-007,Tariq Aziz,Operations,Present
+2026-10-01,CW-008,Shahid Iqbal,Operations,Present
+2026-10-02,CW-008,Shahid Iqbal,Operations,Absent
+2026-10-05,CW-008,Shahid Iqbal,Operations,Present
+2026-10-06,CW-008,Shahid Iqbal,Operations,Absent
+2026-10-07,CW-008,Shahid Iqbal,Operations,Present
+2026-10-08,CW-008,Shahid Iqbal,Operations,Present
+2026-10-09,CW-008,Shahid Iqbal,Operations,Present
+2026-10-12,CW-008,Shahid Iqbal,Operations,Present
+2026-10-13,CW-008,Shahid Iqbal,Operations,Present
+2026-10-14,CW-008,Shahid Iqbal,Operations,Absent
+2026-10-15,CW-008,Shahid Iqbal,Operations,Present
+2026-10-16,CW-008,Shahid Iqbal,Operations,Present
+2026-10-19,CW-008,Shahid Iqbal,Operations,Present
+2026-10-20,CW-008,Shahid Iqbal,Operations,Absent
+2026-10-21,CW-008,Shahid Iqbal,Operations,Present
+2026-10-22,CW-008,Shahid Iqbal,Operations,Present
+2026-10-23,CW-008,Shahid Iqbal,Operations,Late
+2026-10-26,CW-008,Shahid Iqbal,Operations,Absent
+2026-10-27,CW-008,Shahid Iqbal,Operations,Present
+2026-10-28,CW-008,Shahid Iqbal,Operations,Present
+2026-10-29,CW-008,Shahid Iqbal,Operations,Absent
+2026-10-30,CW-008,Shahid Iqbal,Operations,Leave
+2026-10-01,CW-009,Sana Malik,Sales,Present
+2026-10-02,CW-009,Sana Malik,Sales,Present
+2026-10-05,CW-009,Sana Malik,Sales,Present
+2026-10-06,CW-009,Sana Malik,Sales,Present
+2026-10-07,CW-009,Sana Malik,Sales,Present
+2026-10-08,CW-009,Sana Malik,Sales,Present
+2026-10-09,CW-009,Sana Malik,Sales,Present
+2026-10-12,CW-009,Sana Malik,Sales,Present
+2026-10-13,CW-009,Sana Malik,Sales,Present
+2026-10-14,CW-009,Sana Malik,Sales,Present
+2026-10-15,CW-009,Sana Malik,Sales,Absent
+2026-10-16,CW-009,Sana Malik,Sales,Present
+2026-10-19,CW-009,Sana Malik,Sales,Present
+2026-10-20,CW-009,Sana Malik,Sales,Present
+2026-10-21,CW-009,Sana Malik,Sales,Present
+2026-10-22,CW-009,Sana Malik,Sales,Present
+2026-10-23,CW-009,Sana Malik,Sales,Present
+2026-10-26,CW-009,Sana Malik,Sales,Present
+2026-10-27,CW-009,Sana Malik,Sales,Present
+2026-10-28,CW-009,Sana Malik,Sales,Present
+2026-10-29,CW-009,Sana Malik,Sales,Present
+2026-10-30,CW-009,Sana Malik,Sales,Present
+2026-10-01,CW-010,Ayesha Khan,Sales,Present
+2026-10-02,CW-010,Ayesha Khan,Sales,Present
+2026-10-05,CW-010,Ayesha Khan,Sales,Present
+2026-10-06,CW-010,Ayesha Khan,Sales,Present
+2026-10-07,CW-010,Ayesha Khan,Sales,Present
+2026-10-08,CW-010,Ayesha Khan,Sales,Late
+2026-10-09,CW-010,Ayesha Khan,Sales,Present
+2026-10-12,CW-010,Ayesha Khan,Sales,Present
+2026-10-13,CW-010,Ayesha Khan,Sales,Present
+2026-10-14,CW-010,Ayesha Khan,Sales,Present
+2026-10-15,CW-010,Ayesha Khan,Sales,Present
+2026-10-16,CW-010,Ayesha Khan,Sales,Present
+2026-10-19,CW-010,Ayesha Khan,Sales,Late
+2026-10-20,CW-010,Ayesha Khan,Sales,Present
+2026-10-21,CW-010,Ayesha Khan,Sales,Present
+2026-10-22,CW-010,Ayesha Khan,Sales,Late
+2026-10-23,CW-010,Ayesha Khan,Sales,Present
+2026-10-26,CW-010,Ayesha Khan,Sales,Present
+2026-10-27,CW-010,Ayesha Khan,Sales,Present
+2026-10-28,CW-010,Ayesha Khan,Sales,Present
+2026-10-29,CW-010,Ayesha Khan,Sales,Present
+2026-10-30,CW-010,Ayesha Khan,Sales,Late
+2026-10-01,CW-011,Hamza Yousaf,Sales,Late
+2026-10-02,CW-011,Hamza Yousaf,Sales,Present
+2026-10-05,CW-011,Hamza Yousaf,Sales,Present
+2026-10-06,CW-011,Hamza Yousaf,Sales,Present
+2026-10-07,CW-011,Hamza Yousaf,Sales,Present
+2026-10-08,CW-011,Hamza Yousaf,Sales,Present
+2026-10-09,CW-011,Hamza Yousaf,Sales,Present
+2026-10-12,CW-011,Hamza Yousaf,Sales,Present
+2026-10-13,CW-011,Hamza Yousaf,Sales,Present
+2026-10-14,CW-011,Hamza Yousaf,Sales,Half-day
+2026-10-15,CW-011,Hamza Yousaf,Sales,Present
+2026-10-16,CW-011,Hamza Yousaf,Sales,Present
+2026-10-19,CW-011,Hamza Yousaf,Sales,Present
+2026-10-20,CW-011,Hamza Yousaf,Sales,Present
+2026-10-21,CW-011,Hamza Yousaf,Sales,Present
+2026-10-22,CW-011,Hamza Yousaf,Sales,Present
+2026-10-23,CW-011,Hamza Yousaf,Sales,Present
+2026-10-26,CW-011,Hamza Yousaf,Sales,Present
+2026-10-27,CW-011,Hamza Yousaf,Sales,Present
+2026-10-28,CW-011,Hamza Yousaf,Sales,Present
+2026-10-29,CW-011,Hamza Yousaf,Sales,Leave
+2026-10-30,CW-011,Hamza Yousaf,Sales,Present
+2026-10-01,CW-012,Zainab Ali,Sales,Present
+2026-10-02,CW-012,Zainab Ali,Sales,Present
+2026-10-05,CW-012,Zainab Ali,Sales,Present
+2026-10-06,CW-012,Zainab Ali,Sales,Present
+2026-10-07,CW-012,Zainab Ali,Sales,Present
+2026-10-08,CW-012,Zainab Ali,Sales,Present
+2026-10-09,CW-012,Zainab Ali,Sales,Present
+2026-10-12,CW-012,Zainab Ali,Sales,Present
+2026-10-13,CW-012,Zainab Ali,Sales,Present
+2026-10-14,CW-012,Zainab Ali,Sales,Present
+2026-10-15,CW-012,Zainab Ali,Sales,Present
+2026-10-16,CW-012,Zainab Ali,Sales,Present
+2026-10-19,CW-012,Zainab Ali,Sales,Present
+2026-10-20,CW-012,Zainab Ali,Sales,Present
+2026-10-21,CW-012,Zainab Ali,Sales,Present
+2026-10-22,CW-012,Zainab Ali,Sales,Present
+2026-10-23,CW-012,Zainab Ali,Sales,Present
+2026-10-26,CW-012,Zainab Ali,Sales,Present
+2026-10-27,CW-012,Zainab Ali,Sales,Present
+2026-10-28,CW-012,Zainab Ali,Sales,Present
+2026-10-29,CW-012,Zainab Ali,Sales,Present
+2026-10-30,CW-012,Zainab Ali,Sales,Half-day
+2026-10-01,CW-013,Omar Farooq,Sales,Present
+2026-10-02,CW-013,Omar Farooq,Sales,Present
+2026-10-05,CW-013,Omar Farooq,Sales,Present
+2026-10-06,CW-013,Omar Farooq,Sales,Present
+2026-10-07,CW-013,Omar Farooq,Sales,Present
+2026-10-08,CW-013,Omar Farooq,Sales,Present
+2026-10-09,CW-013,Omar Farooq,Sales,Present
+2026-10-12,CW-013,Omar Farooq,Sales,Present
+2026-10-13,CW-013,Omar Farooq,Sales,Present
+2026-10-14,CW-013,Omar Farooq,Sales,Present
+2026-10-15,CW-013,Omar Farooq,Sales,Present
+2026-10-16,CW-013,Omar Farooq,Sales,Present
+2026-10-19,CW-013,Omar Farooq,Sales,Present
+2026-10-20,CW-013,Omar Farooq,Sales,Present
+2026-10-21,CW-013,Omar Farooq,Sales,Present
+2026-10-22,CW-013,Omar Farooq,Sales,Present
+2026-10-23,CW-013,Omar Farooq,Sales,Late
+2026-10-26,CW-013,Omar Farooq,Sales,Present
+2026-10-27,CW-013,Omar Farooq,Sales,Late
+2026-10-28,CW-013,Omar Farooq,Sales,Present
+2026-10-29,CW-013,Omar Farooq,Sales,Present
+2026-10-30,CW-013,Omar Farooq,Sales,Present
+2026-10-01,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-02,CW-014,Maryam Siddiqui,Sales,Late
+2026-10-05,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-06,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-07,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-08,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-09,CW-014,Maryam Siddiqui,Sales,Half-day
+2026-10-12,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-13,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-14,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-15,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-16,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-19,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-20,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-21,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-22,CW-014,Maryam Siddiqui,Sales,Late
+2026-10-23,CW-014,Maryam Siddiqui,Sales,Leave
+2026-10-26,CW-014,Maryam Siddiqui,Sales,Leave
+2026-10-27,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-28,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-29,CW-014,Maryam Siddiqui,Sales,Present
+2026-10-30,CW-014,Maryam Siddiqui,Sales,Late
+2026-10-01,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-02,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-05,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-06,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-07,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-08,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-09,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-12,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-13,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-14,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-15,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-16,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-19,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-20,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-21,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-22,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-23,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-26,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-27,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-28,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-29,CW-015,Kamran Ahmed,Accounts,Half-day
+2026-10-30,CW-015,Kamran Ahmed,Accounts,Present
+2026-10-01,CW-016,Saad Mirza,Accounts,Half-day
+2026-10-02,CW-016,Saad Mirza,Accounts,Present
+2026-10-05,CW-016,Saad Mirza,Accounts,Present
+2026-10-06,CW-016,Saad Mirza,Accounts,Present
+2026-10-07,CW-016,Saad Mirza,Accounts,Present
+2026-10-08,CW-016,Saad Mirza,Accounts,Present
+2026-10-09,CW-016,Saad Mirza,Accounts,Present
+2026-10-12,CW-016,Saad Mirza,Accounts,Present
+2026-10-13,CW-016,Saad Mirza,Accounts,Present
+2026-10-14,CW-016,Saad Mirza,Accounts,Present
+2026-10-15,CW-016,Saad Mirza,Accounts,Present
+2026-10-16,CW-016,Saad Mirza,Accounts,Present
+2026-10-19,CW-016,Saad Mirza,Accounts,Present
+2026-10-20,CW-016,Saad Mirza,Accounts,Late
+2026-10-21,CW-016,Saad Mirza,Accounts,Present
+2026-10-22,CW-016,Saad Mirza,Accounts,Present
+2026-10-23,CW-016,Saad Mirza,Accounts,Leave
+2026-10-26,CW-016,Saad Mirza,Accounts,Present
+2026-10-27,CW-016,Saad Mirza,Accounts,Present
+2026-10-28,CW-016,Saad Mirza,Accounts,Present
+2026-10-29,CW-016,Saad Mirza,Accounts,Present
+2026-10-30,CW-016,Saad Mirza,Accounts,Present
+2026-10-01,CW-017,Hina Raza,Accounts,Present
+2026-10-02,CW-017,Hina Raza,Accounts,Present
+2026-10-05,CW-017,Hina Raza,Accounts,Leave
+2026-10-06,CW-017,Hina Raza,Accounts,Present
+2026-10-07,CW-017,Hina Raza,Accounts,Present
+2026-10-08,CW-017,Hina Raza,Accounts,Present
+2026-10-09,CW-017,Hina Raza,Accounts,Present
+2026-10-12,CW-017,Hina Raza,Accounts,Present
+2026-10-13,CW-017,Hina Raza,Accounts,Present
+2026-10-14,CW-017,Hina Raza,Accounts,Present
+2026-10-15,CW-017,Hina Raza,Accounts,Present
+2026-10-16,CW-017,Hina Raza,Accounts,Present
+2026-10-19,CW-017,Hina Raza,Accounts,Half-day
+2026-10-20,CW-017,Hina Raza,Accounts,Late
+2026-10-21,CW-017,Hina Raza,Accounts,Present
+2026-10-22,CW-017,Hina Raza,Accounts,Present
+2026-10-23,CW-017,Hina Raza,Accounts,Present
+2026-10-26,CW-017,Hina Raza,Accounts,Present
+2026-10-27,CW-017,Hina Raza,Accounts,Present
+2026-10-28,CW-017,Hina Raza,Accounts,Late
+2026-10-29,CW-017,Hina Raza,Accounts,Present
+2026-10-30,CW-017,Hina Raza,Accounts,Present
+2026-10-01,CW-018,Waqas Ali,Accounts,Present
+2026-10-02,CW-018,Waqas Ali,Accounts,Present
+2026-10-05,CW-018,Waqas Ali,Accounts,Late
+2026-10-06,CW-018,Waqas Ali,Accounts,Present
+2026-10-07,CW-018,Waqas Ali,Accounts,Present
+2026-10-08,CW-018,Waqas Ali,Accounts,Present
+2026-10-09,CW-018,Waqas Ali,Accounts,Present
+2026-10-12,CW-018,Waqas Ali,Accounts,Present
+2026-10-13,CW-018,Waqas Ali,Accounts,Present
+2026-10-14,CW-018,Waqas Ali,Accounts,Present
+2026-10-15,CW-018,Waqas Ali,Accounts,Present
+2026-10-16,CW-018,Waqas Ali,Accounts,Present
+2026-10-19,CW-018,Waqas Ali,Accounts,Present
+2026-10-20,CW-018,Waqas Ali,Accounts,Present
+2026-10-21,CW-018,Waqas Ali,Accounts,Present
+2026-10-22,CW-018,Waqas Ali,Accounts,Present
+2026-10-23,CW-018,Waqas Ali,Accounts,Present
+2026-10-26,CW-018,Waqas Ali,Accounts,Present
+2026-10-27,CW-018,Waqas Ali,Accounts,Present
+2026-10-28,CW-018,Waqas Ali,Accounts,Present
+2026-10-29,CW-018,Waqas Ali,Accounts,Present
+2026-10-30,CW-018,Waqas Ali,Accounts,Present
+2026-10-01,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-02,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-05,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-06,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-07,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-08,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-09,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-12,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-13,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-14,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-15,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-16,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-19,CW-019,Fatima Zahra,HR & Admin,Late
+2026-10-20,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-21,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-22,CW-019,Fatima Zahra,HR & Admin,Late
+2026-10-23,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-26,CW-019,Fatima Zahra,HR & Admin,Absent
+2026-10-27,CW-019,Fatima Zahra,HR & Admin,Late
+2026-10-28,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-29,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-30,CW-019,Fatima Zahra,HR & Admin,Present
+2026-10-01,CW-020,Ali Raza,HR & Admin,Present
+2026-10-02,CW-020,Ali Raza,HR & Admin,Present
+2026-10-05,CW-020,Ali Raza,HR & Admin,Present
+2026-10-06,CW-020,Ali Raza,HR & Admin,Present
+2026-10-07,CW-020,Ali Raza,HR & Admin,Present
+2026-10-08,CW-020,Ali Raza,HR & Admin,Present
+2026-10-09,CW-020,Ali Raza,HR & Admin,Present
+2026-10-12,CW-020,Ali Raza,HR & Admin,Present
+2026-10-13,CW-020,Ali Raza,HR & Admin,Present
+2026-10-14,CW-020,Ali Raza,HR & Admin,Present
+2026-10-15,CW-020,Ali Raza,HR & Admin,Present
+2026-10-16,CW-020,Ali Raza,HR & Admin,Late
+2026-10-19,CW-020,Ali Raza,HR & Admin,Leave
+2026-10-20,CW-020,Ali Raza,HR & Admin,Present
+2026-10-21,CW-020,Ali Raza,HR & Admin,Present
+2026-10-22,CW-020,Ali Raza,HR & Admin,Present
+2026-10-23,CW-020,Ali Raza,HR & Admin,Present
+2026-10-26,CW-020,Ali Raza,HR & Admin,Present
+2026-10-27,CW-020,Ali Raza,HR & Admin,Present
+2026-10-28,CW-020,Ali Raza,HR & Admin,Present
+2026-10-29,CW-020,Ali Raza,HR & Admin,Present
+2026-10-30,CW-020,Ali Raza,HR & Admin,Present
+2026-10-01,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-02,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-05,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-06,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-07,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-08,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-09,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-12,CW-021,Rabia Anwar,HR & Admin,Absent
+2026-10-13,CW-021,Rabia Anwar,HR & Admin,Late
+2026-10-14,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-15,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-16,CW-021,Rabia Anwar,HR & Admin,Half-day
+2026-10-19,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-20,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-21,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-22,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-23,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-26,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-27,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-28,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-29,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-30,CW-021,Rabia Anwar,HR & Admin,Present
+2026-10-01,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-02,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-05,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-06,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-07,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-08,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-09,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-12,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-13,CW-022,Hassan Javed,HR & Admin,Late
+2026-10-14,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-15,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-16,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-19,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-20,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-21,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-22,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-23,CW-022,Hassan Javed,HR & Admin,Leave
+2026-10-26,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-27,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-28,CW-022,Hassan Javed,HR & Admin,Late
+2026-10-29,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-30,CW-022,Hassan Javed,HR & Admin,Present
+2026-10-01,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-02,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-05,CW-023,Daniyal Khan,HR & Admin,Late
+2026-10-06,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-07,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-08,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-09,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-12,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-13,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-14,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-15,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-16,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-19,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-20,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-21,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-22,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-23,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-26,CW-023,Daniyal Khan,HR & Admin,Half-day
+2026-10-27,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-28,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-29,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-30,CW-023,Daniyal Khan,HR & Admin,Present
+2026-10-01,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-02,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-05,CW-024,Muhammad Younas,HR & Admin,Absent
+2026-10-06,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-07,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-08,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-09,CW-024,Muhammad Younas,HR & Admin,Leave
+2026-10-12,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-13,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-14,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-15,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-16,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-19,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-20,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-21,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-22,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-23,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-26,CW-024,Muhammad Younas,HR & Admin,Late
+2026-10-27,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-28,CW-024,Muhammad Younas,HR & Admin,Present
+2026-10-29,CW-024,Muhammad Younas,HR & Admin,Leave
+2026-10-30,CW-024,Muhammad Younas,HR & Admin,Present
